@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed El-Seginy</h1>
 <h3 align="center">Software Engineer | Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed0elseginy&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed0elseginy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmed0elseginy" alt="ahmed0elseginy" /></a> </p>
-
 - 🔭 I'm currently studied on New Cairo Technological University **(NCTU)**
 
 - 🌱 I’m currently learning **Spring Framework**
@@ -12,8 +8,6 @@
 - 👯 I’m looking to collaborate on **Quantum Physics**
 
 - 🤝 I’m looking for help with **Career advancement**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ahmed0elseginy](https://github.com/ahmed0elseginy)
 
 - 📝 I regularly write articles on [Artificial Intelligence and Backend Architecture](Artificial Intelligence and Backend Architecture)
 
@@ -31,10 +25,6 @@
 <a href="https://linkedin.com/in/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed0elseginy" height="30" width="40" /></a>
 <a href="https://fb.com/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed0elseginy" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmed0elseginy" height="30" width="40" /></a>
-<a href="https://medium.com/@ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ahmed0elseginy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmed0elseginy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmed0elseginy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmed0elseginy" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5zR6a9dH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5zR6a9dH" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,9 +32,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmed0elseginy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmed0elseginy" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed0elseginy&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="ahmed0elseginy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed0elseginy&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="ahmed0elseginy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed0elseginy&theme=dark" alt="ahmed0elseginy" /></p>
