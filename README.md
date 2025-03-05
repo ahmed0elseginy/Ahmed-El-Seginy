@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed El-Seginy</h1>
+<h1 align="center">Hi 👋, I'm Ahmed Mohamed El-Seginy</h1>
 <h3 align="center">Software Engineer | Java Developer</h3>
 
 - 🔭 I'm currently studying at **New Cairo Technological University (NCTU)**  
